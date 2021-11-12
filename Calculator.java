@@ -5,4 +5,10 @@ public class Calculator{
 	int multiply(int num1, int mum2){
 	  return num1*num2;
 	}
+	
+	int division(int int1, int int2)
+	{
+		return int1 / int2;
+	}
+
 }
