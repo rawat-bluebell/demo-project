@@ -1,7 +1,9 @@
 public class Calculator{
+	//Comment Addition
 	int sum(int num1, int num2){
 		return num1+num2;
 	}
+	//COmment Multiply
 	int multiply(int num1, int mum2){
 	  return num1*num2;
 	}	
