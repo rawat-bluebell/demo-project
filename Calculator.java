@@ -1,5 +1,5 @@
 public class Calculator{
-	//Comment Addition
+	// Add Comment Addition
 	int sum(int num1, int num2){
 		return num1+num2;
 	}
